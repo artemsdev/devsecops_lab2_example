@@ -1,4 +1,7 @@
-Create a CI/CD pipeline on a server for a sample web application that automates build, test, and deployment stages.
+Create a CI pipeline for a sample web application that automates build, test, and has security testing on remote repository side.
 
-Deployed by using Raillway 
-App URL is: https://devsecopslab1example-production.up.railway.app/ 
+Used for check:
+        Safety
+        Flake8
+        Bandit
+        Pytest
